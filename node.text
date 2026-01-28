@@ -1,0 +1,15 @@
+
+       LOOP
+     =========
+     program a jokhon akoi kaj  
+ Doing the same thing over and over again is called a loop.    
+  for loop----
+  1.initialization
+  2.Range/condetion
+  3.increment/Decrement
+    
+    statement-------
+  for(initialization;Range/condetion;increment/Decrement)
+  for(let i=1; i= <= 5; i=1)
+  ++ => increment operator
+  -- >= Decrement operator 
